@@ -1,0 +1,3 @@
+function myfunction() {
+    alert("voce foi inscrito no mewslettar com sucesso!");
+}
